@@ -7,7 +7,7 @@
 >>>>>>> dev
 
 
-![image](https://github.com/577528249/TTNews/blob/master/introductionimages/1234.gif)
+![image](https://github.com/KeenTeam1990/TTNews/blob/master/introductionimages/1234.gif)
 
 
 作为一个集新闻与娱乐于一体的新闻客户端，
@@ -38,7 +38,7 @@ PS:她的新闻数据源来自于百度API Store里的免费新闻api，
 （api由抓包分析网络请求所得，版权归百思不得姐所有），
 
 
-新手项目，多多包涵，谢谢！有相关问题可以在线留言或发邮件至577528249@qq.com，谢谢！
+新手项目，多多包涵，谢谢！有相关问题可以在线留言或发邮件至Keen_Team@163.com，谢谢！
 
 
 # 使用方法
@@ -53,19 +53,7 @@ PS:她的新闻数据源来自于百度API Store里的免费新闻api，
 # 新闻首页
 
 
-![image](https://github.com/577528249/TTNews/blob/master/introductionimages/IMG_0345.PNG)
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/KeenTeam1990/TTNews/blob/master/introductionimages/IMG_0345.PNG)
 
 
 
@@ -73,17 +61,7 @@ PS:她的新闻数据源来自于百度API Store里的免费新闻api，
 # 图片界面
 
 
-![image](https://github.com/577528249/TTNews/blob/master/introductionimages/IMG_0346.PNG)
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/KeenTeam1990/TTNews/blob/master/introductionimages/IMG_0346.PNG)
 
 
 
@@ -92,13 +70,7 @@ PS:她的新闻数据源来自于百度API Store里的免费新闻api，
 # 视频界面
 
 
-![image](https://github.com/577528249/TTNews/blob/master/introductionimages/IMG_0347.PNG)
-
-
-
-
-
-
+![image](https://github.com/KeenTeam1990/TTNews/blob/master/introductionimages/IMG_0347.PNG)
 
 
 
@@ -106,7 +78,7 @@ PS:她的新闻数据源来自于百度API Store里的免费新闻api，
 
 # 我的界面
 
-![image](https://github.com/577528249/TTNews/blob/master/introductionimages/IMG_0349.PNG)
+![image](https://github.com/KeenTeam1990/TTNews/blob/master/introductionimages/IMG_0349.PNG)
 
 
 
@@ -114,7 +86,7 @@ PS:她的新闻数据源来自于百度API Store里的免费新闻api，
 # License
 The MIT License (MIT)
 
-Copyright (c) 2016 YangJunhui
+Copyright (c) 2016 KEENTEAM
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
